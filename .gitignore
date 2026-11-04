@@ -1,7 +1,5 @@
 
-
+.env
 # packages
 node_modules
 
-# env
-.env.*
